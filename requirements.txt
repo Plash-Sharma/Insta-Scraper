@@ -1,0 +1,4 @@
+maskpass
+tabulate
+requests
+selenium
