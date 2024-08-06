@@ -2,7 +2,7 @@
 
 This Python project uses Selenium to scrape data from Instagram profiles. The scraper retrieves the specified number of recent posts from a target profile and collects information on the number of likes and post dates.
 
-#### Video Demo: <>
+#### Video Demo: <https://youtu.be/lR5MdsHt9jI>
 
 
 ## Features
